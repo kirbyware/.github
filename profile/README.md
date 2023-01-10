@@ -1,5 +1,5 @@
 # About Kirbyware LLC
 
-Kirbyware LLC provides technology implementation and itegration services focused on helping business and organizations harness the power of today's leading technologies.
+Kirbyware LLC provides technology services, software, and solutions focused on helping business and teams exploit the power of today's transformational technologies.
 
 Owner: [Mark Kirby](https://www.kirbymark.dev/about)
