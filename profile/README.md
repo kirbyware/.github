@@ -1,4 +1,4 @@
-# About kirbyware LLC
+# About
 
 kirbyware LLC provides technology services, software, and solutions focused on helping businesses and teams exploit the power of today's transformational technologies
 
