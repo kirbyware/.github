@@ -1,6 +1,6 @@
 # About
 
-kirbyware LLC provides technology services, software, and solutions focused on helping businesses and teams exploit the power of today's transformational technologies
+We provides technology services, software, and solutions focused on helping businesses and teams exploit the power of today's transformational technologies
 
 
 Owner: [Mark Kirby](https://www.kirbymark.dev/about)
