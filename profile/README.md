@@ -33,7 +33,7 @@ With 26+ years of in-depth experience spanning large consulting firms, Fortune 1
 ---
 
 💬 **Let's Talk,** 
-Looking to harness technology for an untapped opportunity? Reach out to us at [contact@kirbyware.com](mailto:contact@kirbyware.com)!
+Looking to harness technology for an untapped opportunity? Reach out to us at [mark@kirbyware.io](mailto:mark@kirbyware.io)!
 
 ---
 Owner: [Mark Kirby](https://www.kirbymark.dev/about)
