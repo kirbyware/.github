@@ -1,6 +1,6 @@
 # About kirbyware.io
 
-kirbyware is a technology consultancy dedicated to helping businesses leverage today's leading technology solutions. We craft bespoke solutions that align with unique business objectives, ensuring both strategic visions and tangible results are achieved.
+kirbyware is a small business focused on helping people leverage today's technology.
 
 ## 🛠 Services Offered
 
