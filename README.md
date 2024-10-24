@@ -21,7 +21,7 @@ kirbyware is a small business dedicated to helping people leverage today's leadi
 - **Analytics and Data Engineering**
 
 💬 **Let's Talk,** 
-Looking to harness technology? Reach out to us at [mark@kirbyware.io](mailto:mark@kirbyware.io)!
+Looking to harness technology? Reach out to us at [mark@kirbyware.io](mailto:mark@kirbyware.io)
 
 ---
 Owner: [Mark Kirby](https://www.kirbymark.dev/about)
